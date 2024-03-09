@@ -4,6 +4,7 @@
 
 ![GitHub issues](https://img.shields.io/github/issues/thunderlight-shogi/engine)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/thunderlight-shogi/engine)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/thunderlight-shogi/engine/Go)
 
 </h3>
 
